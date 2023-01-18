@@ -1,0 +1,31 @@
+{
+    "proyecto": "Proyecto 3",
+    "productos": 
+    [
+      {
+        "image": "https://sodimac.scene7.com/is/image/SodimacCL/8700370_02?wid=1500&hei=1500&qlt=70",
+        "srcUrl": "https://sodimac.falabella.com/sodimac-cl/product/110169471/Mueble-bano-lavamano-41x41x47-cm/110169491?exp=sodimac"
+      },
+      {
+        "image": "https://sodimac.scene7.com/is/image/SodimacCL/8795797_01?wid=1500&hei=1500&qlt=70",
+        "srcUrl": "https://sodimac.falabella.com/sodimac-cl/product/112822431/Sanitario-aquapro-blanco/112822438?exp=sodimac"
+      },
+      {
+        "image": "https://sodimac.scene7.com/is/image/SodimacCL/3558681_01?wid=1500&hei=1500&qlt=70",
+        "srcUrl": "https://sodimac.falabella.com/sodimac-cl/product/110172284/Monomando-lavatorio-Marsella-negro-onyx/110172291?exp=sodimac"
+      },
+      {
+        "image": "https://sodimac.scene7.com/is/image/SodimacCL/3450600_01?wid=1500&hei=1500&qlt=70",
+        "srcUrl": "https://sodimac.falabella.com/sodimac-cl/product/110269582/Estante-de-bano-180x60x30-cm-blanco/110269589?exp=sodimac"
+      },
+      {
+        "image": "https://sodimac.scene7.com/is/image/SodimacCL/8772371_01?wid=1500&hei=1500&qlt=70",
+        "srcUrl": "https://sodimac.falabella.com/sodimac-cl/product/110703155/Toallero-barra-46-cm-negro-mate/110703157?exp=sodimac"
+      }
+    ],
+  
+    "HUM": {
+        "ytUrl": "https://youtu.be/XsMQzQMZXcE",
+        "iframeUrl": "https://www.youtube.com/embed/XsMQzQMZXcE"
+    }
+  }
